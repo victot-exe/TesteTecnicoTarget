@@ -1,0 +1,52 @@
+# Ignore the build output directory
+/bin/
+/obj/
+
+# Ignore the user-specific files of Visual Studio
+.vs/
+.vscode/
+
+# Ignore the ASP.NET temporary files
+/aspnet-configuration/
+
+# Ignore build result files
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]Release/
+[Dd]ReleasePublic/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+Thumbs.db
+
+# Windows Installer files
+ehthumbs.db
+
+# Ignore JetBrains Rider files
+.idea/
+
+# Ignore the NuGet package directory
+.nuget/
+
+# Ignore the global tools directory
+dotnet-tools/
+
+# Ignore ASP.NET files that should not be committed
+wwwroot/
