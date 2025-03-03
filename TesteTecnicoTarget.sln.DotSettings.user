@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9b76b8c9_002D58a6_002D400c_002Db3c7_002D3680c07f6cec/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="QuestaoTresTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::847AAF39-16FE-4A41-9151-CBF9CE0B47FB::net8.0::TesteTecnicoTargetTest.ProvaTecnicaTest.QuestaoTresTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ab9b33a2_002D62f7_002D4284_002Dbeef_002D55609fae946a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="QuestaoTresTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::847AAF39-16FE-4A41-9151-CBF9CE0B47FB::net8.0::TesteTecnicoTargetTest.ProvaTecnicaTest.QuestaoTresTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e34d4ca6_002De81d_002D4752_002Daa7a_002D8bd261f95e00/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ProvaTecnicaTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::847AAF39-16FE-4A41-9151-CBF9CE0B47FB::net8.0::TesteTecnicoTargetTest.ProvaTecnicaTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
