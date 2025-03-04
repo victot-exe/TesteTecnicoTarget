@@ -8,7 +8,7 @@ public class ProvaTecnicaFixture
 
     public ProvaTecnicaFixture()
     {
-        const string path = @"C:\Users\viict\RiderProjects\TesteTecnicoTarget\TesteTecnicoTarget\Resources\dados.json";
-        Prova = new ProvaTecnica(path);
+        string filePath = Path.Combine(Directory.GetCurrentDirectory(), "Resources", "dados.json");
+        Prova = new ProvaTecnica(filePath);
     }
 }

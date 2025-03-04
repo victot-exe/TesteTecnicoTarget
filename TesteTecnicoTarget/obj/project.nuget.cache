@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FEBgmQmreOQ=",
+  "dgSpecHash": "zJsm6dxyrfA=",
   "success": true,
   "projectFilePath": "C:\\Users\\viict\\RiderProjects\\TesteTecnicoTarget\\TesteTecnicoTarget\\TesteTecnicoTarget.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\viict\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

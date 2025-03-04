@@ -1,1 +1,1 @@
-﻿Console.WriteLine("");
+﻿Console.WriteLine("Olá! \nPara executar os testes e conferir os métodos execute no CLI dotnet test");

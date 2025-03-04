@@ -10,30 +10,8 @@ Este repositório contém o código para um teste técnico realizado para a empr
 
 ## Executando os Testes
 
-1. Certifique-se de que o caminho do arquivo `dados.json` esteja corretamente configurado.
 
-   O arquivo `dados.json` contém os dados necessários para a execução dos testes. O caminho deste arquivo é esperado na variável `path` no código. Para testar localmente, altere o caminho para o arquivo conforme o seu ambiente.
-
-   **Importante:** Antes de executar os testes, altere o valor da variável `path` no arquivo `TesteTecnicoTargetTest\ProvaTecnicaFixture.cs` para o local onde o seu arquivo `dados.json` está armazenado em `TesteTecnicoTarget\Resources\dados.json`
-
-   Exemplo de configuração do caminho para o arquivo `dados.json`:
-~~~csharp
-using TesteTecnicoTarget;
-
-namespace TesteTecnicoTargetTest;
-
-public class ProvaTecnicaFixture
-{
-    public ProvaTecnica Prova { get; }
-
-    public ProvaTecnicaFixture()
-    {
-        const string path = @"Seu AbsolutePath Aqui";
-        Prova = new ProvaTecnica(path);
-    }
-}
-~~~
-2. Execute os testes com o seguinte comando:
+1. Execute os testes com o seguinte comando:
    ~~~bash
    dotnet test
    ~~~
@@ -56,8 +34,3 @@ Implemente um programa que calcula o percentual de representação de cada estad
 
 Questão 5 - Inversão de String
 Implemente um método que inverte os caracteres de uma string fornecida.
-
-Alterações Importantes
-Antes de rodar os testes, não se esqueça de alterar o caminho do arquivo dados.json para refletir o local correto em sua máquina. O arquivo dados.json deve estar dentro da pasta Resources/.
-
-Se você tiver alguma dúvida, sinta-se à vontade para abrir uma issue no repositório ou entrar em contato.
